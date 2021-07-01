@@ -1,0 +1,820 @@
+
+--------------Test start-------------
+ROUND 0
+[4, 512, 8, 2]
+[16, 128, 64, 4]
+[32, 256, 32, 2]
+[2, 4, 2, 4]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [7312]
+{512: 1}
+Average_score: 7312.0
+--------------Test start-------------
+ROUND 0
+[2, 4, 16, 2]
+[256, 16, 2, 4]
+[32, 64, 32, 8]
+[4, 16, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 16384
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [2544]
+{256: 1}
+Average_score: 2544.0
+--------------Test start-------------
+ROUND 0
+[2, 4, 512, 4]
+[1024, 64, 128, 8]
+[16, 32, 16, 4]
+[2, 4, 8, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [14672]
+{1024: 1}
+Average_score: 14672.0
+--------------Test start-------------
+ROUND 0
+[4, 8, 16, 4]
+[512, 64, 128, 32]
+[8, 16, 256, 16]
+[4, 8, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 4
+W_SIMILAR_BLOCK = 3
+W_ISOLATE_BLOCK = 4
+W_BLOCK_CNT = 32
+BIG_BLOCK = 16
+scores: [7312]
+{512: 1}
+Average_score: 7312.0
+--------------Test start-------------
+ROUND 0
+[512, 16, 8, 2]
+[2, 128, 64, 16]
+[32, 256, 32, 4]
+[8, 2, 8, 2]
+--------------Test result-------------
+W_MAX_CORNER = 20000
+W_SAME_BLOCK = 4
+W_SIMILAR_BLOCK = 3
+W_ISOLATE_BLOCK = 4
+W_BLOCK_CNT = 32
+BIG_BLOCK = 16
+scores: [7380]
+{512: 1}
+Average_score: 7380.0
+--------------Test start-------------
+ROUND 0
+[2, 4, 32, 2]
+[4, 512, 16, 4]
+[256, 128, 32, 8]
+[4, 16, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 16
+scores: [7044]
+{512: 1}
+Average_score: 7044.0
+--------------Test start-------------
+ROUND 0
+[256, 32, 16, 2]
+[2, 128, 64, 4]
+[8, 64, 32, 16]
+[4, 16, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 1000000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 16
+scores: [3628]
+{256: 1}
+Average_score: 3628.0
+--------------Test start-------------
+ROUND 0
+[4, 32, 8, 4]
+[1024, 512, 256, 64]
+[16, 32, 16, 8]
+[4, 8, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 100000000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 16
+scores: [15840]
+{1024: 1}
+Average_score: 15840.0
+--------------Test start-------------
+ROUND 0
+[1024, 32, 8, 4]
+[512, 128, 16, 8]
+[256, 64, 32, 4]
+[128, 32, 16, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [17480]
+{1024: 1}
+Average_score: 17480.0
+--------------Test start-------------
+ROUND 0
+[2048, 256, 8, 4]
+[64, 128, 16, 8]
+[8, 64, 32, 4]
+[2, 4, 16, 2]
+ROUND 1
+[2048, 16, 2, 4]
+[1024, 128, 64, 16]
+[4, 8, 32, 4]
+[2, 16, 8, 2]
+ROUND 2
+[2048, 32, 2, 4]
+[512, 128, 4, 8]
+[32, 64, 8, 16]
+[4, 32, 4, 2]
+ROUND 3
+[1024, 16, 8, 4]
+[4, 512, 64, 32]
+[16, 256, 128, 16]
+[2, 4, 32, 2]
+ROUND 4
+[1024, 32, 8, 4]
+[2, 512, 16, 8]
+[32, 128, 64, 4]
+[2, 8, 16, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [23964, 31100, 26144, 16620, 14808]
+{2048: 3, 1024: 2}
+Average_score: 22527.2
+--------------Test start-------------
+ROUND 0
+[1024, 32, 4, 2]
+[64, 128, 64, 32]
+[8, 16, 2, 4]
+[4, 8, 4, 2]
+ROUND 1
+[4, 1024, 512, 8]
+[8, 16, 256, 16]
+[4, 128, 32, 4]
+[2, 64, 16, 2]
+ROUND 2
+[1024, 256, 32, 2]
+[32, 128, 64, 8]
+[8, 16, 32, 4]
+[4, 8, 16, 2]
+ROUND 3
+[4, 1024, 16, 4]
+[64, 512, 64, 8]
+[32, 128, 32, 4]
+[4, 64, 16, 2]
+ROUND 4
+[2048, 128, 16, 4]
+[4, 1024, 32, 8]
+[32, 256, 64, 32]
+[4, 8, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 11.0
+W_BLOCK_CNT = 32
+BIG_BLOCK = 16
+scores: [10976, 16508, 12632, 15424, 33056]
+{1024: 4, 2048: 1}
+Average_score: 17719.2
+--------------Test start-------------
+ROUND 0
+[2048, 256, 8, 4]
+[2, 8, 64, 16]
+[8, 16, 128, 8]
+[4, 32, 4, 2]
+ROUND 1
+[1024, 64, 8, 2]
+[512, 128, 16, 8]
+[32, 64, 32, 16]
+[4, 16, 4, 2]
+ROUND 2
+[2048, 16, 4, 2]
+[32, 256, 128, 8]
+[8, 32, 64, 32]
+[4, 16, 4, 2]
+ROUND 3
+[2048, 64, 16, 2]
+[32, 512, 32, 4]
+[16, 128, 64, 8]
+[4, 16, 4, 2]
+ROUND 4
+[1024, 32, 16, 4]
+[512, 256, 128, 32]
+[4, 32, 64, 4]
+[2, 4, 8, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 10.0
+W_BLOCK_CNT = 32
+BIG_BLOCK = 16
+scores: [23660, 15160, 23884, 26412, 16656]
+{2048: 3, 1024: 2}
+Average_score: 21154.4
+--------------Test start-------------
+ROUND 0
+[4, 8, 4, 2]
+[1024, 512, 128, 64]
+[128, 256, 32, 8]
+[2, 32, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 16
+scores: [17260]
+{1024: 1}
+Average_score: 17260.0
+--------------Test start-------------
+ROUND 0
+[1024, 64, 16, 4]
+[512, 256, 128, 16]
+[8, 32, 64, 8]
+[4, 8, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 16
+scores: [16796]
+{1024: 1}
+Average_score: 16796.0
+--------------Test start-------------
+ROUND 0
+[1024, 512, 4, 2]
+[32, 128, 32, 16]
+[2, 4, 16, 4]
+[4, 8, 2, 8]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 16
+scores: [14480]
+{1024: 1}
+Average_score: 14480.0
+--------------Test start-------------
+ROUND 0
+[2048, 32, 4, 2]
+[16, 256, 128, 64]
+[8, 512, 16, 8]
+[2, 16, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 4
+W_BLOCK_CNT = 32
+BIG_BLOCK = 16
+scores: [27768]
+{2048: 1}
+Average_score: 27768.0
+--------------Test start-------------
+ROUND 0
+[2048, 1024, 512, 32]
+[64, 128, 256, 8]
+[4, 16, 32, 4]
+[2, 4, 8, 2]
+ROUND 1
+[1024, 64, 4, 2]
+[8, 128, 16, 8]
+[32, 64, 32, 4]
+[8, 2, 16, 2]
+ROUND 2
+[2048, 64, 4, 2]
+[1024, 256, 128, 8]
+[8, 16, 64, 32]
+[4, 8, 4, 2]
+ROUND 3
+[1024, 32, 8, 4]
+[512, 256, 128, 64]
+[8, 16, 64, 16]
+[4, 8, 4, 2]
+ROUND 4
+[2048, 32, 16, 4]
+[1024, 64, 32, 8]
+[256, 128, 16, 4]
+[2, 4, 32, 2]
+ROUND 5
+[4, 1024, 4, 8]
+[16, 512, 32, 16]
+[8, 128, 64, 8]
+[2, 4, 32, 2]
+ROUND 6
+[4, 2048, 1024, 2]
+[16, 32, 256, 32]
+[8, 128, 32, 4]
+[2, 64, 8, 2]
+ROUND 7
+[2, 32, 4, 2]
+[1024, 256, 128, 8]
+[128, 32, 64, 32]
+[16, 4, 2, 16]
+ROUND 8
+[1024, 64, 4, 2]
+[128, 256, 16, 4]
+[8, 128, 64, 8]
+[4, 16, 4, 2]
+ROUND 9
+[1024, 512, 8, 4]
+[128, 256, 64, 2]
+[64, 128, 16, 8]
+[2, 32, 64, 2]
+ROUND 10
+[8, 2048, 8, 2]
+[16, 32, 1024, 16]
+[4, 256, 16, 4]
+[2, 4, 8, 2]
+ROUND 11
+[2048, 512, 256, 2]
+[32, 64, 128, 64]
+[16, 32, 16, 32]
+[4, 8, 4, 2]
+ROUND 12
+[1024, 512, 4, 2]
+[64, 256, 8, 4]
+[32, 64, 32, 16]
+[8, 16, 8, 2]
+ROUND 13
+[2, 2048, 128, 8]
+[16, 512, 16, 2]
+[4, 128, 32, 8]
+[2, 4, 16, 2]
+ROUND 14
+[1024, 256, 8, 4]
+[16, 128, 16, 8]
+[32, 64, 32, 4]
+[8, 2, 16, 2]
+ROUND 15
+[2048, 8, 4, 2]
+[256, 128, 64, 32]
+[8, 16, 32, 16]
+[4, 8, 4, 2]
+ROUND 16
+[1024, 512, 8, 4]
+[32, 128, 64, 8]
+[4, 16, 32, 16]
+[2, 4, 8, 2]
+ROUND 17
+[1024, 16, 4, 16]
+[64, 256, 32, 2]
+[16, 128, 64, 4]
+[2, 4, 32, 2]
+ROUND 18
+[1024, 64, 8, 2]
+[128, 256, 16, 4]
+[16, 64, 32, 8]
+[4, 32, 16, 2]
+ROUND 19
+[4, 32, 4, 2]
+[1024, 512, 128, 16]
+[16, 256, 64, 8]
+[2, 32, 16, 4]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 4
+W_BLOCK_CNT = 32
+BIG_BLOCK = 16
+scores: [37020, 11032, 33132, 16796, 33084, 14812, 33048, 13368, 13328, 17812, 31820, 28280, 16152, 26424, 12552, 23772, 14812, 12828, 12856, 16620]
+{2048: 8, 1024: 12}
+Average_score: 20977.4
+--------------Test start-------------
+ROUND 0
+[2048, 128, 4, 2]
+[32, 256, 32, 8]
+[8, 128, 64, 4]
+[4, 8, 16, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [24492]
+{2048: 1}
+Average_score: 24492.0
+--------------Test start-------------
+ROUND 0
+[2, 16, 64, 2]
+[2048, 512, 128, 16]
+[64, 32, 64, 8]
+[4, 16, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [26600]
+{2048: 1}
+Average_score: 26600.0
+--------------Test start-------------
+ROUND 0
+[1024, 64, 4, 2]
+[512, 128, 16, 4]
+[4, 8, 64, 8]
+[8, 2, 16, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [14876]
+{1024: 1}
+Average_score: 14876.0
+--------------Test start-------------
+ROUND 0
+[2048, 512, 8, 4]
+[4, 256, 16, 8]
+[16, 64, 32, 4]
+[4, 2, 8, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [26976]
+{2048: 1}
+Average_score: 26976.0
+--------------Test start-------------
+ROUND 0
+[2048, 128, 4, 2]
+[64, 256, 64, 4]
+[4, 16, 32, 8]
+[2, 8, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [23904]
+{2048: 1}
+Average_score: 23904.0
+--------------Test start-------------
+ROUND 0
+[2, 4, 16, 2]
+[1024, 256, 128, 8]
+[512, 32, 64, 32]
+[8, 2, 16, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [16580]
+{1024: 1}
+Average_score: 16580.0
+--------------Test start-------------
+ROUND 0
+[8, 512, 32, 2]
+[128, 256, 128, 4]
+[4, 32, 64, 16]
+[2, 16, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [8124]
+{512: 1}
+Average_score: 8124.0
+--------------Test start-------------
+ROUND 0
+[256, 64, 8, 2]
+[16, 128, 16, 32]
+[2, 32, 128, 4]
+[4, 16, 8, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [4088]
+{256: 1}
+Average_score: 4088.0
+--------------Test start-------------
+ROUND 0
+[2, 1024, 8, 4]
+[4, 256, 128, 16]
+[512, 32, 64, 8]
+[8, 4, 16, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [16476]
+{1024: 1}
+Average_score: 16476.0
+--------------Test start-------------
+ROUND 0
+[2048, 32, 16, 32]
+[1024, 128, 64, 16]
+[512, 256, 32, 8]
+[2, 8, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 16000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [37188]
+{2048: 1}
+Average_score: 37188.0
+--------------Test start-------------
+ROUND 0
+[2048, 128, 8, 4]
+[16, 1024, 16, 8]
+[4, 512, 128, 4]
+[2, 4, 32, 2]
+--------------Test result-------------
+W_MAX_CORNER = 16000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [35600]
+{2048: 1}
+Average_score: 35600.0
+--------------Test start-------------
+ROUND 0
+[2048, 32, 16, 8]
+[16, 1024, 64, 16]
+[8, 256, 32, 4]
+[2, 4, 128, 2]
+ROUND 1
+[1024, 32, 16, 2]
+[64, 512, 32, 4]
+[4, 128, 64, 8]
+[2, 16, 4, 2]
+ROUND 2
+[512, 4, 64, 4]
+[8, 256, 32, 8]
+[64, 128, 64, 4]
+[4, 8, 32, 2]
+ROUND 3
+[2048, 32, 8, 2]
+[1024, 256, 16, 4]
+[32, 128, 32, 16]
+[4, 8, 4, 2]
+ROUND 4
+[1024, 512, 256, 8]
+[4, 64, 128, 64]
+[16, 32, 16, 8]
+[4, 8, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 16000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [33016, 15100, 7936, 32780, 16796]
+{2048: 2, 1024: 2, 512: 1}
+Average_score: 21125.6
+--------------Test start-------------
+ROUND 0
+[2, 4, 2, 8]
+[1024, 64, 128, 32]
+[256, 16, 64, 16]
+[4, 8, 4, 2]
+ROUND 1
+[2048, 1024, 16, 4]
+[32, 512, 128, 32]
+[8, 16, 64, 8]
+[2, 4, 32, 2]
+ROUND 2
+[1024, 32, 16, 2]
+[512, 128, 64, 4]
+[8, 32, 16, 8]
+[4, 8, 4, 2]
+ROUND 3
+[1024, 512, 256, 2]
+[16, 64, 128, 64]
+[8, 32, 8, 16]
+[2, 16, 4, 2]
+ROUND 4
+[1024, 8, 16, 8]
+[32, 256, 32, 4]
+[16, 512, 16, 8]
+[4, 8, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 16000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [12684, 35400, 14812, 16820, 15580]
+{1024: 4, 2048: 1}
+Average_score: 19059.2
+--------------Test start-------------
+ROUND 0
+[256, 16, 4, 2]
+[8, 128, 32, 8]
+[2, 64, 128, 4]
+[4, 16, 8, 2]
+--------------Test result-------------
+W_MAX_CORNER = 16000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [3932]
+{256: 1}
+Average_score: 3932.0
+--------------Test start-------------
+ROUND 0
+[512, 128, 4, 2]
+[8, 256, 2, 4]
+[4, 64, 32, 8]
+[2, 16, 8, 4]
+--------------Test result-------------
+W_MAX_CORNER = 16000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [7216]
+{512: 1}
+Average_score: 7216.0
+--------------Test start-------------
+ROUND 0
+[4, 1024, 8, 4]
+[512, 64, 32, 16]
+[256, 128, 2, 4]
+[2, 4, 32, 2]
+--------------Test result-------------
+W_MAX_CORNER = 32000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [16528]
+{1024: 1}
+Average_score: 16528.0
+--------------Test start-------------
+ROUND 0
+[256, 64, 2, 4]
+[16, 128, 32, 8]
+[4, 8, 128, 4]
+[2, 4, 8, 2]
+--------------Test result-------------
+W_MAX_CORNER = 16000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [3888]
+{256: 1}
+Average_score: 3888.0
+--------------Test start-------------
+ROUND 0
+[2048, 1024, 4, 2]
+[64, 512, 8, 4]
+[16, 128, 16, 8]
+[4, 32, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 16000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [35152]
+{2048: 1}
+Average_score: 35152.0
+--------------Test start-------------
+ROUND 0
+[2048, 32, 16, 2]
+[32, 1024, 256, 4]
+[16, 32, 64, 32]
+[4, 16, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 16000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [32476]
+{2048: 1}
+Average_score: 32476.0
+--------------Test start-------------
+ROUND 0
+[4, 1024, 8, 4]
+[32, 256, 16, 8]
+[16, 128, 64, 4]
+[4, 32, 16, 2]
+--------------Test result-------------
+W_MAX_CORNER = 16000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [12544]
+{1024: 1}
+Average_score: 12544.0
+--------------Test start-------------
+ROUND 0
+[1024, 512, 16, 2]
+[32, 256, 64, 128]
+[16, 128, 32, 16]
+[4, 8, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 16000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [17384]
+{1024: 1}
+Average_score: 17384.0
+--------------Test start-------------
+ROUND 0
+[1024, 16, 8, 4]
+[16, 512, 64, 16]
+[8, 16, 32, 8]
+[4, 8, 4, 2]
+--------------Test result-------------
+W_MAX_CORNER = 10000
+W_SAME_BLOCK = 2
+W_SIMILAR_BLOCK = 2
+W_ISOLATE_BLOCK = 8
+W_BLOCK_CNT = 32
+BIG_BLOCK = 32
+scores: [14028]
+{1024: 1}
+Average_score: 14028.0
